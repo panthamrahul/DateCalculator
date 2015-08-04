@@ -10,6 +10,11 @@
 
 @interface ViewController : UIViewController
 
-
+-(void) setHisAge:(float)hisAge;
+-(float)degreesFarenheitToCelsius:(float)degreeFarenheit;
+-(instancetype)initWithAge:(float)hisAge hisName:(NSString *)hisName;
+-(BOOL)shouldHeDateIfHerAgeIs:(float)herAge;
+@property (assign) float hisAge;
+@property (strong,nonatomic) NSString *hisName;
 @end
 

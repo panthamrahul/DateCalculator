@@ -169,6 +169,7 @@
         NSLog(@"%@: %d",key,[value intValue]);
 
     }];
+    NSLog(@"%@",barkDict);
     // Override point for customization after application launch.
     return YES;
 }

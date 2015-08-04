@@ -14,6 +14,12 @@
 		B76788571B1B7E6E00503E91 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B76788561B1B7E6E00503E91 /* Images.xcassets */; };
 		B767885A1B1B7E6E00503E91 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B76788581B1B7E6E00503E91 /* LaunchScreen.xib */; };
 		B76788661B1B7E6E00503E91 /* DateCalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B76788651B1B7E6E00503E91 /* DateCalculatorTests.m */; };
+		B76EBF321B20C67C0088175F /* Sweater.m in Sources */ = {isa = PBXBuildFile; fileRef = B76EBF311B20C67C0088175F /* Sweater.m */; };
+		B76EBF351B20F3D50088175F /* person.m in Sources */ = {isa = PBXBuildFile; fileRef = B76EBF341B20F3D50088175F /* person.m */; };
+		B76EBF381B214E5A0088175F /* Freckles.m in Sources */ = {isa = PBXBuildFile; fileRef = B76EBF371B214E5A0088175F /* Freckles.m */; };
+		B76EBF3B1B214F4E0088175F /* Stephani.m in Sources */ = {isa = PBXBuildFile; fileRef = B76EBF3A1B214F4E0088175F /* Stephani.m */; };
+		B76EBF3E1B214F6C0088175F /* Vickie.m in Sources */ = {isa = PBXBuildFile; fileRef = B76EBF3D1B214F6C0088175F /* Vickie.m */; };
+		B7D9F8AA1B2A1CCF00860FB3 /* Dog.m in Sources */ = {isa = PBXBuildFile; fileRef = B7D9F8A91B2A1CCF00860FB3 /* Dog.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +46,18 @@
 		B767885F1B1B7E6E00503E91 /* DateCalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DateCalculatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B76788641B1B7E6E00503E91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B76788651B1B7E6E00503E91 /* DateCalculatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DateCalculatorTests.m; sourceTree = "<group>"; };
+		B76EBF301B20C67C0088175F /* Sweater.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sweater.h; sourceTree = "<group>"; };
+		B76EBF311B20C67C0088175F /* Sweater.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Sweater.m; sourceTree = "<group>"; };
+		B76EBF331B20F3D50088175F /* person.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = person.h; path = ../person.h; sourceTree = "<group>"; };
+		B76EBF341B20F3D50088175F /* person.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = person.m; path = ../person.m; sourceTree = "<group>"; };
+		B76EBF361B214E5A0088175F /* Freckles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Freckles.h; path = ../Freckles.h; sourceTree = "<group>"; };
+		B76EBF371B214E5A0088175F /* Freckles.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Freckles.m; path = ../Freckles.m; sourceTree = "<group>"; };
+		B76EBF391B214F4D0088175F /* Stephani.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Stephani.h; path = ../Stephani.h; sourceTree = "<group>"; };
+		B76EBF3A1B214F4E0088175F /* Stephani.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Stephani.m; path = ../Stephani.m; sourceTree = "<group>"; };
+		B76EBF3C1B214F6C0088175F /* Vickie.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Vickie.h; path = ../Vickie.h; sourceTree = "<group>"; };
+		B76EBF3D1B214F6C0088175F /* Vickie.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Vickie.m; path = ../Vickie.m; sourceTree = "<group>"; };
+		B7D9F8A81B2A1CCF00860FB3 /* Dog.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Dog.h; path = ../Dog.h; sourceTree = "<group>"; };
+		B7D9F8A91B2A1CCF00860FB3 /* Dog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Dog.m; path = ../Dog.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +107,18 @@
 				B76788561B1B7E6E00503E91 /* Images.xcassets */,
 				B76788581B1B7E6E00503E91 /* LaunchScreen.xib */,
 				B76788491B1B7E6E00503E91 /* Supporting Files */,
+				B76EBF301B20C67C0088175F /* Sweater.h */,
+				B76EBF311B20C67C0088175F /* Sweater.m */,
+				B76EBF331B20F3D50088175F /* person.h */,
+				B76EBF341B20F3D50088175F /* person.m */,
+				B76EBF361B214E5A0088175F /* Freckles.h */,
+				B76EBF371B214E5A0088175F /* Freckles.m */,
+				B76EBF391B214F4D0088175F /* Stephani.h */,
+				B76EBF3A1B214F4E0088175F /* Stephani.m */,
+				B76EBF3C1B214F6C0088175F /* Vickie.h */,
+				B76EBF3D1B214F6C0088175F /* Vickie.m */,
+				B7D9F8A81B2A1CCF00860FB3 /* Dog.h */,
+				B7D9F8A91B2A1CCF00860FB3 /* Dog.m */,
 			);
 			path = DateCalculator;
 			sourceTree = "<group>";
@@ -219,9 +249,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B7D9F8AA1B2A1CCF00860FB3 /* Dog.m in Sources */,
 				B76788521B1B7E6E00503E91 /* ViewController.m in Sources */,
+				B76EBF351B20F3D50088175F /* person.m in Sources */,
+				B76EBF381B214E5A0088175F /* Freckles.m in Sources */,
+				B76EBF3B1B214F4E0088175F /* Stephani.m in Sources */,
 				B767884F1B1B7E6E00503E91 /* AppDelegate.m in Sources */,
 				B767884C1B1B7E6E00503E91 /* main.m in Sources */,
+				B76EBF3E1B214F6C0088175F /* Vickie.m in Sources */,
+				B76EBF321B20C67C0088175F /* Sweater.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -347,6 +383,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_OBJC_ARC = YES;
 				INFOPLIST_FILE = DateCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -357,6 +394,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_OBJC_ARC = YES;
 				INFOPLIST_FILE = DateCalculator/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -416,6 +454,7 @@
 				B767886B1B1B7E6E00503E91 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B767886C1B1B7E6E00503E91 /* Build configuration list for PBXNativeTarget "DateCalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -424,6 +463,7 @@
 				B767886E1B1B7E6E00503E91 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
